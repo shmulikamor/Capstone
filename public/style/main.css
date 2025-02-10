@@ -1,0 +1,19 @@
+#myImage{
+    width:70px;
+    height:70px;
+    border-radius: 50px;
+}
+
+h1{
+    text-align: center;
+}
+
+.social_icon li{
+    list-style-type: none;
+    display: inline;
+}
+
+.footer{
+    display: grid;
+    place-items: center;
+}
